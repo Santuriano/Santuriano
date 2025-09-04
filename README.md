@@ -25,6 +25,13 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+</div>
+
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-ripollsantiago58@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](ripollsantiago58@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-oscaarcamacho-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/oscaarcamacho/)](https://www.instagram.com/oscaarcamacho/)
