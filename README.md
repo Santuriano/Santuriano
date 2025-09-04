@@ -15,4 +15,4 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/oscaarcamacho/)](https://www.instagram.com/oscaarcamacho/)
+[![Instagram Badge](https://img.shields.io/badge/-oscaarcamacho-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/oscaarcamacho/)](https://www.instagram.com/oscaarcamacho/)
