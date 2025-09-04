@@ -42,6 +42,14 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+
+</div>
+
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-ripollsantiago58@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](ripollsantiago58@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-oscaarcamacho-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/oscaarcamacho/)](https://www.instagram.com/oscaarcamacho/)
