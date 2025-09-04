@@ -15,7 +15,7 @@
 
 ## Contact me : 
 <a href= "https://www.instagram.com/oscaarcamacho/">
-  <img src = "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
+  <img src = "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)"></img>
 </a>
 
 
