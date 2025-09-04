@@ -1,4 +1,4 @@
-<p align="center">Hi , I'm Oscar Santiago Camacho <font-size = 30px ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<p align="center">Hi , I'm Oscar Santiago Camacho <font-size = "100" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 
 
 
