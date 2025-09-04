@@ -32,7 +32,7 @@
 
 <div align="Center">
   
-### 🛠 &nbsp;Operating Systems
+###  &nbsp;Operating Systems
 
   <img src="https://skillicons.dev/icons?i=windows"/>
 
