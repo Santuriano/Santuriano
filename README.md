@@ -40,9 +40,12 @@
 
 <div align="Center">
 
-|‎ ‎ ‎ ‎ Contacts me: ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:ripollsantiago58@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.instagram.com/oscaarcamacho/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎|
+<div align="Center">
+<h1>Contact me:</h1>
+
+<a href="mailto:ripollsantiago58@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.instagram.com/oscaarcamacho/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ 
+
+</div>
 
 </div>
 
