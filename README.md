@@ -50,6 +50,3 @@
 
 </div>
 
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-ripollsantiago58@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](ripollsantiago58@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-oscaarcamacho-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/oscaarcamacho/)](https://www.instagram.com/oscaarcamacho/)
