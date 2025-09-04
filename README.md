@@ -14,8 +14,8 @@
 
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-ripollsantiago58@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ripollsantiago58@gmail.com)](ripollsantiago58@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-oscaarcamacho-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=[https://www.instagram.com/asthi_21_/](https://www.instagram.com/oscaarcamacho/))]([https://www.instagram.com/asthi_21_/](https://www.instagram.com/oscaarcamacho/))
+<a href= "https://www.instagram.com/oscaarcamacho/">
+  <img src = "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
