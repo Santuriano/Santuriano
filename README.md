@@ -1,5 +1,5 @@
 <p align="center"
-   font-weight = "500">Hi , I'm Oscar Santiago Camacho  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+   font-weight = 300>Hi , I'm Oscar Santiago Camacho  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 
 
 
