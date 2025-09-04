@@ -16,6 +16,7 @@
 ## Contact me : 
 <a href= "https://www.instagram.com/oscaarcamacho/">
   <img src = "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
+</a>
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
