@@ -32,8 +32,7 @@
 
 <div align="Center">
 ### 🛠 &nbsp;Operating Systems
-
-<img src="https://skillicons.dev/icons?i=windows"/>
+  <img src="https://skillicons.dev/icons?i=windows"/>
 
 </div>
 
