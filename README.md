@@ -44,8 +44,7 @@
 
 <div align="Center">
 ###  &nbsp;Contact me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-
-<a href="mailto:ripollsantiago58@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.instagram.com/oscaarcamacho/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ 
+  <a href="mailto:ripollsantiago58@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.instagram.com/oscaarcamacho/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ 
 
 
 </div>
